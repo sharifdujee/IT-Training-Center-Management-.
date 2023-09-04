@@ -6,3 +6,9 @@ The Present Project Emphasize The IT Trainning Center Admission. The are tha the
 4. Attendence.
 5. Admission
 6. Payment System
+   
+# The Technology That uses on the present Projects.
+1. Java
+2. Java Swing.
+3. MySQL.
+4. JFrame 
